@@ -1,0 +1,15 @@
+Package: quartotuto
+Type: website
+Title: Quarto tuto
+Description: Used to declare R dependencies
+Version: 1.0
+Authors@R: c(
+    person("Gabriel", "Lecointre",role = c("aut", "cre"), email = "gabriel.lecointre@eleve.ensai.fr"))
+URL: https://glecointre.github.io/Quarto-tuto
+License: MIT
+Imports:
+    dplyr,
+    ggplot2,
+    leaflet,
+    rmarkdown
+Encoding: UTF-8
